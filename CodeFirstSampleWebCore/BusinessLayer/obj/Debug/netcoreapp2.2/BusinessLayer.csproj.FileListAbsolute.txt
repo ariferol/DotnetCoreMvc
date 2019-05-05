@@ -1,0 +1,14 @@
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csprojAssemblyReference.cache
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.AssemblyInfoInputs.cache
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.AssemblyInfo.cs
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.deps.json
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\bin\Debug\netcoreapp2.2\RepositoriesLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.pdb
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\bin\Debug\netcoreapp2.2\RepositoriesLayer.pdb
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CopyComplete
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.pdb

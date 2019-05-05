@@ -1,0 +1,10 @@
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.deps.json
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\obj\Debug\netcoreapp2.2\EntitiesLayer.csproj.CoreCompileInputs.cache
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\obj\Debug\netcoreapp2.2\EntitiesLayer.AssemblyInfoInputs.cache
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\obj\Debug\netcoreapp2.2\EntitiesLayer.AssemblyInfo.cs
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.pdb
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\obj\Debug\netcoreapp2.2\EntitiesLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\obj\Debug\netcoreapp2.2\EntitiesLayer.pdb
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.runtimeconfig.json
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\EntitiesLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.runtimeconfig.dev.json

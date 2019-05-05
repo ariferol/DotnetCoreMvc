@@ -1,0 +1,12 @@
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\bin\Debug\netcoreapp2.2\RepositoriesLayer.deps.json
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\bin\Debug\netcoreapp2.2\RepositoriesLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\bin\Debug\netcoreapp2.2\RepositoriesLayer.pdb
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\bin\Debug\netcoreapp2.2\EntitiesLayer.pdb
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\obj\Debug\netcoreapp2.2\RepositoriesLayer.csprojAssemblyReference.cache
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\obj\Debug\netcoreapp2.2\RepositoriesLayer.csproj.CoreCompileInputs.cache
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\obj\Debug\netcoreapp2.2\RepositoriesLayer.AssemblyInfoInputs.cache
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\obj\Debug\netcoreapp2.2\RepositoriesLayer.AssemblyInfo.cs
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\obj\Debug\netcoreapp2.2\RepositoriesLayer.csproj.CopyComplete
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\obj\Debug\netcoreapp2.2\RepositoriesLayer.dll
+E:\Projects\CodeFirst\CodeFirstSampleWebCore\RepositoriesLayer\obj\Debug\netcoreapp2.2\RepositoriesLayer.pdb
