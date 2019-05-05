@@ -17,5 +17,7 @@ install-package Microsoft.EntityFrameworkCore.Tools
 install-package Microsoft.EntityFrameworkCore.SqlServer
 install-package Microsoft.EntityFrameworkCore.SqlServer.Design
 Yukaridaki paketleri ister Package Manager Console dan isterseniz NugetPackages Manager dan install ediniz. 
+
 2)Sonra asagidaki komutu, Entity lerin olacagi proje icerisindeyken Package Manager Console dan calistiriniz.(OutputDir parametresi entity objelerinin atilacagi folder i belirtir.)
+
 scaffold-dbcontext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "Server=(localdb)\MSSQLLocalDB;Database=Northwind;Trusted_Connection=True;” -OutputDir Models
