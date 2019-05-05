@@ -11,11 +11,17 @@ Artık solution u localinizde çalıştırabilirsiniz.
 
 Entity framework reverse engineering islemi yaparak var olan db nin entitylerini projenize asagidaki sekilde create edebilirsiniz;
 1)Gerekli kütüphaneleri install ediyoruz,
+
 install-package Microsoft.EntityFrameworkCore
+
 install-package Microsoft.EntityFrameworkCore.Design
+
 install-package Microsoft.EntityFrameworkCore.Tools
+
 install-package Microsoft.EntityFrameworkCore.SqlServer
+
 install-package Microsoft.EntityFrameworkCore.SqlServer.Design
+
 Yukaridaki paketleri ister Package Manager Console dan isterseniz NugetPackages Manager dan install ediniz. 
 
 2)Sonra asagidaki komutu, Entity lerin olacagi proje icerisindeyken Package Manager Console dan calistiriniz.(OutputDir parametresi entity objelerinin atilacagi folder i belirtir.)
