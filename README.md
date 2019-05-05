@@ -9,7 +9,7 @@ Visual studio connect mssql db wizard servername: (LocalDB)\MSSQLLocalDB (VS ser
 Daha sonra "CodeFirstSampleWebCore" icindeki "instnwnd.sql" dosyasını Visual studio SQL window da run ederek, northwind db yi create et.
 Artık solution u localinizde çalıştırabilirsiniz.
 
-Entity framework reverse engineering islemi yaparak var olan db nin entitylerini projenize asagidaki sekilde create edebilirsiniz;
+Entity framework reverse engineering islemi yaparak var olan db nin entitylerini, yani veri modeli nesnelerini, projenize asagidaki sekilde otomatik olarak hizli bir sekilde create edebilirsiniz;
 1)Gerekli kütüphaneleri install ediyoruz,
 
 install-package Microsoft.EntityFrameworkCore
