@@ -1,5 +1,5 @@
 C# .Net Core MVC de Entityframework CRUD islemleri icin ornek bir web application projesidir. (Daha da guzellestirmek isterseniz, BusinessLayer ile presentation layer 
-arasina WebApi Layer i eklemenizi tavsiye ederim.)
+arasina WebApi kullanarak bir Service Layer eklemenizi tavsiye ederim.)
 
 Eğer northwind db create edilmemişse, asagidaki gibi cmd prompta local db instance i create edilerek connect olunur;
 
